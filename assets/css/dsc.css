@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    /* font-size: 2.5vw; */
+    color: #000000;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ee0000;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+pre {
+    /* width: 70ch; */
+    width: 42em;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+}

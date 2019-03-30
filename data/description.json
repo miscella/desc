@@ -1,0 +1,49 @@
+{
+    "AUCTOR": {
+        "boe86.par22.ger":[1],
+        "hei97.zue54.ger":[1,2],
+        "fou29.ceq58.fre":[1],
+        "bau21.pei63.fre":[1,2,5,7,8],
+        "kra74.not14.ger":[1,2,3],
+        "flu20.phi83.ger":[8,9,10,11,12]
+    },
+    "CEREBRUM": {
+        "ost53.geh12.ger":[1,2],
+        "gol80.mag13.ger":[1]
+    },
+    "ELECTRICA": {
+        "haw04.hou51.eng":[1,2],
+        "kni21.tel57.ger":[1,2,3],
+        "rob48.vin92.ger99":[1],
+        "nau60.geh07.ger":[10],
+        "fri64.int08.ger":[1],
+        "zwe81.ers43.ger":[8]
+    },
+    "FUTURA": {
+        "twa35.lon04.eng":[1,2],
+        "slo72.dra10.ger":[15],
+        "zie94.hun26.ger":[1],
+        "les82.kin26.ger":[1],
+        "otl68.tra34.fre":[12],
+        "wel66.wor38.eng":[1],
+        "lei96.log46.eng":[1,2,3,4,5,6]
+    },
+    "ITERO": {
+        "car32.syl93.eng":[1],
+        "las48.uni04.ger":[1,2,3,4],
+        "wol68.kun29.ger":[27,28,29,30,31,32]
+    },
+    "LIBER": {
+        "lis90.buc27.ger":[6,7],
+        "ben92.ein28.ger":[3,4,5,6,7,8]
+    },
+    "MEDIA": {
+        "kit43.sta88.ger":[4]
+    },
+    "PROTHESIS": {
+        "fre56.unb30.ger":[1,2]
+    },
+    "REPRO": {
+        "pub19.les31.ger":[1,2,3,4,5]
+    }
+}
